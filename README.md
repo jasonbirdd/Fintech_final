@@ -14,11 +14,11 @@ dill
 
 you could download all using  
 pip install -r requirements.txt  
-  
 or excute the ipynb file on google colab and only install  
 tkinter  
-joblib  
+joblib   
 dill  
+
 ----------------------------------------------------------------
 ## First excute  
 
