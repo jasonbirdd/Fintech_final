@@ -28,5 +28,6 @@ the notebook will show all EDA and detail flow of the project
 ----------------------------------------------------------------
 ## Second excute
 
-Run the XXX and input the necessary information.
-The program will show you what price you should pay for the medical insurance.
+Run the Medicalpremiun_GUI and input the necessary information or upload file
+(test data can use Medicalpremium_tkinter in "./data").
+The program will show you what price range you should pay for the medical insurance.
